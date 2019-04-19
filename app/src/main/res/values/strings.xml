@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PyinListView</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">释放立即刷新</string>
+    <string name="xlistview_header_hint_loading">正在刷新</string>
+    <string name="xlistview_header_last_time">上次更新：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_hint_loading">正在加载更多</string>
+    <string name="xlistview_footer_hint_complete">已加载完全部</string>
+    <string name="app_no_data_tips">暂无记录</string>
+</resources>
